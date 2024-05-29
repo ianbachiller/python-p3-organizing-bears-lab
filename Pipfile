@@ -8,6 +8,7 @@ pytest = "7.1.2"
 ipdb = "0.13.9"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.8.13"
